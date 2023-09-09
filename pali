@@ -34,6 +34,6 @@ rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
 
 --------------------------
-CELESTIA_NODENAME="paliz" 
-CELESTIA_WALLET="MY_WALLET"
+CELESTIA_NODENAME="paliz4" 
+CELESTIA_WALLET="MY_WALLET4"
 CELESTIA_CHAIN="mamaki"
